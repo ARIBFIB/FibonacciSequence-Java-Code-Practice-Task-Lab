@@ -1,5 +1,7 @@
 # FibonacciSequence-Java-Code-Practice-Task-Lab
+### YouTube Tutorial
 
+Check out the video tutorial on [YouTube](https://youtu.be/uwlSE_TJweA) for more information.
 
 YouTube Link : https://youtu.be/uwlSE_TJweA
 # Implement a function that returns the nth number in the Fibonacci sequence using recursion. The Fibonacci sequence starts  with 0 and 1, and each subsequent number is the sum of the two preceding ones (0, 1, 1, 2, 3, 5, 8, ...). 
@@ -127,9 +129,7 @@ public class FibonacciSequence {
 
 ### Output![Fibonacci Output][]
 
-### YouTube Tutorial
 
-Check out the video tutorial on [YouTube](https://youtu.be/uwlSE_TJweA) for more information.
 
 ## Contributing
 
@@ -139,9 +139,9 @@ If you find any issues or have suggestions for improvements, feel free to open a
 
 - [Java](https://www.java.com/)
 
-## Authors
+## Developer
 
-- **[Your Name]**
+- **[Abdul Rehman Irfan]**
 
 ## License
 
