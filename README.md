@@ -100,3 +100,59 @@ Here's how the call stack would look like for this example:
 ```
 
 The final result is calculated by adding the last two Fibonacci numbers (`34 + 21 = 55`).
+Sure, here's an example of how you can use Markdown to include some icons and images in a GitHub README file:
+
+# Fibonacci Sequence
+
+![Fibonacci Sequence][]
+
+## Implement a function that returns the nth number in the Fibonacci sequence using recursion.
+
+The Fibonacci sequence starts with 0 and 1, and each subsequent number is the sum of the two preceding ones (0, 1, 1, 2, 3, 5, 8, ...).
+
+### Sample Code 01```java
+public class FibonacciSequence {
+    public static long Fibonacci(int n) {
+        if (n <= 1) {
+            return n;
+        } else {
+            return Fibonacci(n - 1) + Fibonacci(n - 2);
+        }
+    }
+
+    public static void main(String[] args) {
+        System.out.println("The Fibonacci of 10 is " + Fibonacci(10));
+    }
+}```
+
+### Output![Fibonacci Output][]
+
+### YouTube Tutorial
+
+Check out the video tutorial on [YouTube](https://youtu.be/uwlSE_TJweA) for more information.
+
+## Contributing
+
+If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
+
+## Built With
+
+- [Java](https://www.java.com/)
+
+## Authors
+
+- **[Your Name]**
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+In this example, I've included:
+
+1. A main image for the Fibonacci Sequence
+2. A code sample with syntax highlighting
+3. An output image
+4. A link to the YouTube tutorial video
+5. Some standard sections for a README file, like Contributing, Built With, Authors, and License.
+
+You can customize these elements further by using different images, icons, and formatting to suit your specific project needs.
