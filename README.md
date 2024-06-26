@@ -1,4 +1,6 @@
 # FibonacciSequence-Java-Code-Practice-Task-Lab
+![How it works (4)](https://github.com/ARIBFIB/FibonacciSequence-Java-Code-Practice-Task-Lab/assets/125716994/e3f94231-9946-4b85-a914-9883ac613661)
+
 ### YouTube Tutorial
 
 Check out the video tutorial on [YouTube](https://youtu.be/uwlSE_TJweA) for more information.
