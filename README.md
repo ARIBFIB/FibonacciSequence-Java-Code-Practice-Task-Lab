@@ -1,8 +1,7 @@
 # FibonacciSequence-Java-Code-Practice-Task-Lab
 
-
-YouTube Link[![youtube-logo-png-picture-13](https://github.com/ARIBFIB/FibonacciSequence-Java-Code-Practice-Task-Lab/assets/125716994/6264d934-bed0-419a-9b47-31964b180447)
-]: https://youtu.be/uwlSE_TJweA
+![youtube-logo-png-picture-13](https://github.com/ARIBFIB/FibonacciSequence-Java-Code-Practice-Task-Lab/assets/125716994/6264d934-bed0-419a-9b47-31964b180447)
+YouTube Link : https://youtu.be/uwlSE_TJweA
 # Implement a function that returns the nth number in the Fibonacci sequence using recursion. The Fibonacci sequence starts  with 0 and 1, and each subsequent number is the sum of the two preceding ones (0, 1, 1, 2, 3, 5, 8, ...). 
 
 ![image](https://github.com/ARIBFIB/FibonacciSequence-Java-Code-Practice-Task-Lab/assets/125716994/be7bfd33-cac1-4091-8878-088e95c2dc8f)
